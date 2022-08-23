@@ -2,7 +2,7 @@
   "expo": {
     "name": "eas-monorepo-app-with-dev-client",
     "slug": "eas-monorepo-app-with-dev-client",
-    "owner": "aerielcruz",
+    "owner": "aeriel",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
