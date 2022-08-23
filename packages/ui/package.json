@@ -2,8 +2,6 @@
   "private": true,
   "name": "@acme/ui",
   "version": "1.0.0",
-  "description": "Acme UI components for React Native",
-  "author": "Cedric van Putten <me@bycedric.com>",
   "license": "MIT",
   "main": "build/commonjs/index.js",
   "module": "build/module/index.js",
