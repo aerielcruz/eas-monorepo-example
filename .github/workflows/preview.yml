@@ -10,7 +10,7 @@ concurrency:
 
 jobs:
   detect:
-    if: ${{ github.event.pull_request.head.repo.full_name == 'bycedric/eas-monorepo-example' }}
+    if: ${{ github.event.pull_request.head.repo.full_name == 'aerielcruz/eas-monorepo-example' }}
     runs-on: ubuntu-latest
     outputs:
       appChanged: ${{ steps.filter.outputs.apps == 'true' }}

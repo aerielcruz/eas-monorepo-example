@@ -2,7 +2,7 @@
   "expo": {
     "name": "eas-monorepo-app-managed",
     "slug": "eas-monorepo-app-managed",
-    "owner": "bycedric",
+    "owner": "aerielcruz",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,12 +18,12 @@
       "**/*"
     ],
     "ios": {
-      "bundleIdentifier": "com.bycedric.easmonorepoexample.managed",
+      "bundleIdentifier": "com.aerielcruz.easmonorepoexample.managed",
       "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.bycedric.easmonorepoexample.managed",
+      "package": "com.aerielcruz.easmonorepoexample.managed",
       "versionCode": 440010000,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",

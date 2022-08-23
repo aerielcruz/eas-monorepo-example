@@ -2,7 +2,7 @@
   "expo": {
     "name": "eas-monorepo-with-sentry",
     "slug": "eas-monorepo-with-sentry",
-    "owner": "bycedric",
+    "owner": "aerielcruz",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,12 +18,12 @@
       "**/*"
     ],
     "ios": {
-      "bundleIdentifier": "com.bycedric.easmonorepoexample.withsentry",
+      "bundleIdentifier": "com.aerielcruz.easmonorepoexample.withsentry",
       "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.bycedric.easmonorepoexample.withsentry",
+      "package": "com.aerielcruz.easmonorepoexample.withsentry",
       "versionCode": 440010000,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -39,7 +39,7 @@
         {
           "file": "sentry-expo/upload-sourcemaps",
           "config": {
-            "organization": "bycedric-c0",
+            "organization": "aerielcruz-c0",
             "project": "eas-monorepo-example-with-sentry"
           }
         }

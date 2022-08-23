@@ -3,23 +3,23 @@
   <p></p>
   <p>Example app for error reporting with <a href="https://sentry.io/">Sentry</a></p>
   <sup>
-    <a href="https://github.com/byCedric/eas-monorepo-example/releases">
-      <img src="https://img.shields.io/github/workflow/status/byCedric/eas-monorepo-example/preview?style=flat-square" alt="managed preview" />
+    <a href="https://github.com/aerielcruz/eas-monorepo-example/releases">
+      <img src="https://img.shields.io/github/workflow/status/aerielcruz/eas-monorepo-example/preview?style=flat-square" alt="managed preview" />
     </a>
-    <a href="https://github.com/byCedric/eas-monorepo-example/actions">
-      <img src="https://img.shields.io/github/workflow/status/byCedric/eas-monorepo-example/standalone?style=flat-square" alt="latest standalone build" />
+    <a href="https://github.com/aerielcruz/eas-monorepo-example/actions">
+      <img src="https://img.shields.io/github/workflow/status/aerielcruz/eas-monorepo-example/standalone?style=flat-square" alt="latest standalone build" />
     </a>
-    <a href="https://github.com/byCedric/eas-monorepo-example/blob/main/LICENSE.md">
-      <img src="https://img.shields.io/github/license/byCedric/eas-monorepo-example?style=flat-square" alt="license" />
+    <a href="https://github.com/aerielcruz/eas-monorepo-example/blob/main/LICENSE.md">
+      <img src="https://img.shields.io/github/license/aerielcruz/eas-monorepo-example?style=flat-square" alt="license" />
     </a>
   </sup>
   <br />
   <p align="center">
-    <a href="https://github.com/byCedric/eas-monorepo-example/tree/main/apps/with-sentry#-how-to-use-it"><b>How to use it</b></a>
+    <a href="https://github.com/aerielcruz/eas-monorepo-example/tree/main/apps/with-sentry#-how-to-use-it"><b>How to use it</b></a>
     &nbsp;&nbsp;&mdash;&nbsp;&nbsp;
-    <a href="https://github.com/byCedric/eas-monorepo-example/tree/main/apps/with-sentry#%EF%B8%8F-caveats"><b>Caveats</b></a>
+    <a href="https://github.com/aerielcruz/eas-monorepo-example/tree/main/apps/with-sentry#%EF%B8%8F-caveats"><b>Caveats</b></a>
     &nbsp;&nbsp;&mdash;&nbsp;&nbsp;
-    <a href="https://github.com/byCedric/eas-monorepo-example/tree/main/apps/with-sentry#-common-errors"><b>Common Errors</b></a>
+    <a href="https://github.com/aerielcruz/eas-monorepo-example/tree/main/apps/with-sentry#-common-errors"><b>Common Errors</b></a>
   </p>
   <br />
 </div>
@@ -62,6 +62,6 @@ For Sentry to upload the sourcemap, you need to be authenticated. There are curr
 
 <div align="center">
   <br />
-  with&nbsp;:heart:&nbsp;&nbsp;<strong>byCedric</strong>
+  with&nbsp;:heart:&nbsp;&nbsp;<strong>aerielcruz</strong>
   <br />
 </div>

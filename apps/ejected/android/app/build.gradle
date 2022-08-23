@@ -132,7 +132,7 @@ android {
     }
 
     defaultConfig {
-        applicationId 'com.bycedric.easmonorepoexample.ejected'
+        applicationId 'com.aerielcruz.easmonorepoexample.ejected'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 440010000

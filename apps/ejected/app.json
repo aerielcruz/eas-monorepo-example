@@ -18,12 +18,12 @@
       "**/*"
     ],
     "ios": {
-      "bundleIdentifier": "com.bycedric.easmonorepoexample.ejected",
+      "bundleIdentifier": "com.aerielcruz.easmonorepoexample.ejected",
       "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.bycedric.easmonorepoexample.ejected",
+      "package": "com.aerielcruz.easmonorepoexample.ejected",
       "versionCode": 440010000,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",

@@ -1,4 +1,4 @@
-package com.bycedric.easmonorepoexample.ejected;
+package com.aerielcruz.easmonorepoexample.ejected;
 import expo.modules.devmenu.react.DevMenuAwareReactActivity;
 import android.content.Intent;
 import expo.modules.devlauncher.DevLauncherController;

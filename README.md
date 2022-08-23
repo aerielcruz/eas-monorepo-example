@@ -2,26 +2,26 @@
   <h1>EAS monorepo example</h1>
   <p>Enterprise-ready Expo Application Service monorepo with code sharing</p>
   <p>
-    <a href="https://github.com/byCedric/eas-monorepo-example/releases">
-      <img src="https://img.shields.io/github/workflow/status/byCedric/eas-monorepo-example/preview?style=flat-square" alt="managed preview" />
+    <a href="https://github.com/aerielcruz/eas-monorepo-example/releases">
+      <img src="https://img.shields.io/github/workflow/status/aerielcruz/eas-monorepo-example/preview?style=flat-square" alt="managed preview" />
     </a>
-    <a href="https://github.com/byCedric/eas-monorepo-example/actions">
-      <img src="https://img.shields.io/github/workflow/status/byCedric/eas-monorepo-example/standalone?style=flat-square" alt="latest standalone build" />
+    <a href="https://github.com/aerielcruz/eas-monorepo-example/actions">
+      <img src="https://img.shields.io/github/workflow/status/aerielcruz/eas-monorepo-example/standalone?style=flat-square" alt="latest standalone build" />
     </a>
-    <a href="https://github.com/byCedric/eas-monorepo-example/blob/main/LICENSE.md">
-      <img src="https://img.shields.io/github/license/byCedric/eas-monorepo-example?style=flat-square" alt="license" />
+    <a href="https://github.com/aerielcruz/eas-monorepo-example/blob/main/LICENSE.md">
+      <img src="https://img.shields.io/github/license/aerielcruz/eas-monorepo-example?style=flat-square" alt="license" />
     </a>
   </p>
   <p>
-    <a href="https://github.com/byCedric/eas-monorepo-example#-structure"><b>Structure</b></a>
+    <a href="https://github.com/aerielcruz/eas-monorepo-example#-structure"><b>Structure</b></a>
     &ensp;&mdash;&ensp;
-    <a href="https://github.com/byCedric/eas-monorepo-example#-workflows"><b>Workflows</b></a>
+    <a href="https://github.com/aerielcruz/eas-monorepo-example#-workflows"><b>Workflows</b></a>
     &ensp;&mdash;&ensp;
-    <a href="https://github.com/byCedric/eas-monorepo-example#-how-to-use-it"><b>How to use it</b></a>
+    <a href="https://github.com/aerielcruz/eas-monorepo-example#-how-to-use-it"><b>How to use it</b></a>
     &ensp;&mdash;&ensp;
-    <a href="https://github.com/byCedric/eas-monorepo-example#%EF%B8%8F-caveats"><b>Caveats</b></a>
+    <a href="https://github.com/aerielcruz/eas-monorepo-example#%EF%B8%8F-caveats"><b>Caveats</b></a>
     &ensp;&mdash;&ensp;
-    <a href="https://github.com/byCedric/eas-monorepo-example#-common-errors"><b>Common Errors</b></a>
+    <a href="https://github.com/aerielcruz/eas-monorepo-example#-common-errors"><b>Common Errors</b></a>
   </p>
 </div>
 
@@ -91,6 +91,6 @@ _We are actively monitoring potential issues, and fix them_
 
 <div align="center">
   <br />
-  with&nbsp;:heart:&nbsp;&nbsp;<strong>byCedric</strong>
+  with&nbsp;:heart:&nbsp;&nbsp;<strong>aerielcruz</strong>
   <br />
 </div>

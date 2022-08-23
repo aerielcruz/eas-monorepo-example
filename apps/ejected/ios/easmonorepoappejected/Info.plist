@@ -25,7 +25,7 @@
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>com.bycedric.easmonorepoexample.ejected</string>
+          <string>com.aerielcruz.easmonorepoexample.ejected</string>
         </array>
       </dict>
       <dict>

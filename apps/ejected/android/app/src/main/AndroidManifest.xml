@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.bycedric.easmonorepoexample.ejected">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.aerielcruz.easmonorepoexample.ejected">
   <uses-permission android:name="android.permission.INTERNET"/>
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
   <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
@@ -26,7 +26,7 @@
         <action android:name="android.intent.action.VIEW"/>
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
-        <data android:scheme="com.bycedric.easmonorepoexample.ejected"/>
+        <data android:scheme="com.aerielcruz.easmonorepoexample.ejected"/>
         <data android:scheme="exp+eas-monorepo-app-ejected"/>
       </intent-filter>
     </activity>
